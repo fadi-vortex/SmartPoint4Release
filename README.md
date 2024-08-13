@@ -1,1 +1,0 @@
-# SmartPoint4Release
